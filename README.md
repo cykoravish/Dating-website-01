@@ -1,2 +1,2 @@
 # Dating-website-01
-This is a code of dating site made with the help of bootstrap.
+This is a basic look of a dating chat website. I built this web page look completely by using Bootstrap.
